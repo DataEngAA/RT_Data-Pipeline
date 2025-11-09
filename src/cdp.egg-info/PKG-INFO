@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: cdp
+Version: 0.0.0
+Summary: Cricket Data Platform (local editable install)
+Author: Unknown
+Requires-Dist: kafka-python==2.2.15
+Requires-Dist: faker==27.0.0
+Requires-Dist: python-dotenv==1.0.1
+Requires-Dist: pandas==2.3.2
+Requires-Dist: numpy==1.26.4
+Requires-Dist: streamlit==1.28.0
