@@ -1,18 +1,3 @@
-⚙️ Pipeline Evolution
-
-[Faker] → [Kafka] → [Print to Screen]
-✅ Messages flowing!
-
-[Faker] → [Kafka] → [SQLite]
-✅ Data saved!
-
-[Faker] → [Kafka] → [SQLite] → [Dashboard]
-✅ Can see charts!
-
-Move from SQLite to PostgreSQL
-
-Add Airflow for orchestration
-
 # Cricket Data Platform (CDP)
 
 A real-time cricket match simulation platform that generates ball-by-ball events, streams them through Kafka, and provides multiple consumers for visualization and analysis.
